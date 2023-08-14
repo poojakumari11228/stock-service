@@ -1,2 +1,2 @@
-# product-service
-Product Service - Microservices Architecture
+# Stock-service
+Stock Service - Microservices Architecture
